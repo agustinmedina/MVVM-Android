@@ -1,5 +1,7 @@
-### Calculadora Android
+### Android MVVM
 
-- En este caso la aplicacion permite calcular suma,resta,multiplicacion,division de a y b
+Hola aqui dejo un ejemplo de la implementacion del patron MVVM(Model View ViewModel) en Android con Java
 
-[![cal](https://i.ibb.co/1fb1ykh/calculadora.jpg "cal")](https://i.ibb.co/1fb1ykh/calculadora.jpg "cal")
+- En este caso la aplicacion permite calcular la potencia de un entero
+### Screenshot
+[![cren1](https://i.ibb.co/SPtpkYk/screen1.jpg "cren1")](https://i.ibb.co/SPtpkYk/screen1.jpg "cren1")
